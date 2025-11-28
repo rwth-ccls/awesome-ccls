@@ -1,4 +1,4 @@
-# Awesome CCLS [<img src="https://www.ccls.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaabzrelhf" alt="CCLS Logo" align="right" height="120">](https://www.ccls.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaabzrelhf)
+# Awesome CCLS [<img src="ccls-rwth.svg" alt="CCLS Logo" align="right" height="50">](https://www.ccls.rwth-aachen.de/go/id/ystdj/?lidx=1)
 
 
 [The RWTH Center for Computational Life Sciences](https://www.ccls.rwth-aachen.de/go/id/ystdj/?lidx=1) strengthens and connects research activities in Computational Life Sciences at RWTH Aachen University.
